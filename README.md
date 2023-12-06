@@ -7,7 +7,7 @@ In order to play:
 - Have pygame library downloaded
 - Download files 
 - run main.py
-- 
+
 
 Controls are given in-game but here they are:
 
